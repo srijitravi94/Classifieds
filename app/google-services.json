@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "479692797891",
+    "firebase_url": "https://classifieds-app-1993.firebaseio.com",
+    "project_id": "classifieds-app-1993",
+    "storage_bucket": "classifieds-app-1993.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:479692797891:android:7035635411b31327",
+        "android_client_info": {
+          "package_name": "com.example.classifieds"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "479692797891-3ofs81hm48ne0cpv2l7lthtp561c0c1d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA2Ieqv3hd7parqlsi2DdzWXqIs_ZGCJ0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,59 @@
+<resources>
+    <!--Fragments, Activities and Toast-->
+    <string name="app_name">Classifieds</string>
+    <string name="first_name_empty">First name is empty</string>
+    <string name="last_name_empty">Last name is empty</string>
+    <string name="email_empty">Email is empty</string>
+    <string name="password_empty">Password is empty</string>
+    <string name="title_empty">Title is empty</string>
+    <string name="desc_empty">Description is empty</string>
+    <string name="price_empty">Price is empty</string>
+    <string name="country_empty">Country is empty</string>
+    <string name="state_empty">State is empty</string>
+    <string name="city_empty">City is empty</string>
+    <string name="image_empty">Image is empty</string>
+    <string name="already_registered">&lt;u>Already Registered ?&lt;/u></string>
+    <string name="not_registered">&lt;u>Not Registered ?&lt;/u></string>
+    <string name="authentication_success">Successfully Authenticated</string>
+    <string name="authentication_failure">Failed to Authenticate</string>
+    <string name="weak_password">Password must be at least 6 characters</string>
+    <string name="email_exists">Email id already exists</string>
+    <string name="invalid_email">Invalid Email</string>
+    <string name="something_wrong">Something went wrong. Please try again later</string>
+    <string name="check_email">Check your email for verification link</string>
+    <string name="email_not_verified">Email is not Verified. Check your Inbox</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="select_photo">Select Photo</string>
+    <string name="uploading_image">Uploading Image...</string>
+    <string name="compressing_image">Compressing Image...</string>
+    <string name="image_upload_success">Image Upload Successful</string>
+    <string name="saved_preferences">Saved search preferences</string>
+    <string name="contact_seller">Contact Seller</string>
+    <string name="add_watchlist">Added Item to Watchlist</string>
+    <string name="remove_watchlist">Removed Item from Watchlist</string>
+
+    <!--Shared Preferences-->
+    <string name="preferences_country">preferences_country</string>
+    <string name="preferences_state">preferences_state</string>
+    <string name="preferences_city">preferences_city</string>
+
+    <!--Fragment Arguments-->
+    <string name="get_post_id">get_post_id</string>
+
+    <!--Fragment Names-->
+    <string name="fragment_search">Search</string>
+    <string name="fragment_watchlist">WatchList</string>
+    <string name="fragment_post">Post</string>
+    <string name="fragment_account">Account</string>
+
+    <!--Database nodes-->
+    <string name="node_users">users</string>
+    <string name="node_posts">posts</string>
+    <string name="node_elasticsearch">elasticsearch</string>
+    <string name="node_watchlist">watchlist</string>
+
+    <!--Database fields-->
+    <string name="field_post_id">post_id</string>
+
+</resources>
+
